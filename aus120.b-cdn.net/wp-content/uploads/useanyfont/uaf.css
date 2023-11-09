@@ -1,0 +1,73 @@
+				@font-face {
+					font-family: 'inter-regular';
+					src: url('8273inter-regular.woff2') format('woff2'),
+						url('8273inter-regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.inter-regular{font-family: 'inter-regular' !important;}
+
+						@font-face {
+					font-family: 'berthold-extended';
+					src: url('9023berthold-extended.woff2') format('woff2'),
+						url('9023berthold-extended.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.berthold-extended{font-family: 'berthold-extended' !important;}
+
+						@font-face {
+					font-family: 'public-sans';
+					src: url('4397public-sans.woff2') format('woff2'),
+						url('4397public-sans.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.public-sans{font-family: 'public-sans' !important;}
+
+						@font-face {
+					font-family: 'opensauce-regular';
+					src: url('3811opensauce-regular.woff2') format('woff2'),
+						url('3811opensauce-regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.opensauce-regular{font-family: 'opensauce-regular' !important;}
+
+						@font-face {
+					font-family: 'public-sans-bold';
+					src: url('189public-sans-bold.woff2') format('woff2'),
+						url('189public-sans-bold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.public-sans-bold{font-family: 'public-sans-bold' !important;}
+
+						@font-face {
+					font-family: 'manrope-bold';
+					src: url('9198manrope-bold.woff2') format('woff2'),
+						url('9198manrope-bold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.manrope-bold{font-family: 'manrope-bold' !important;}
+
+						@font-face {
+					font-family: 'manrope-regular';
+					src: url('1901manrope-regular.woff2') format('woff2'),
+						url('1901manrope-regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.manrope-regular{font-family: 'manrope-regular' !important;}
+
+						h1, h2, h3{
+					font-family: 'berthold-extended' !important;
+				}
+						h4, h5, h6{
+					font-family: 'manrope-bold' !important;
+				}
+						body, p, blockquote, li, a, strong, b, em{
+					font-family: 'manrope-regular' !important;
+				}
+		
